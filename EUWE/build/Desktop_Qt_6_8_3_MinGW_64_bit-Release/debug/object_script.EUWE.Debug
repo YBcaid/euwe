@@ -1,0 +1,10 @@
+debug/englishextracter.o
+debug/main.o
+debug/resultwidget.o
+debug/widget.o
+debug/wordsdatabase.o
+debug/qrc_resources.o
+debug/moc_englishextracter.o
+debug/moc_resultwidget.o
+debug/moc_widget.o
+debug/moc_wordsdatabase.o

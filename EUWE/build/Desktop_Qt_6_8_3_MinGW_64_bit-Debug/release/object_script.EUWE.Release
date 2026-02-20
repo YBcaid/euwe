@@ -1,0 +1,10 @@
+release/englishextracter.o
+release/main.o
+release/resultwidget.o
+release/widget.o
+release/wordsdatabase.o
+release/qrc_resources.o
+release/moc_englishextracter.o
+release/moc_resultwidget.o
+release/moc_widget.o
+release/moc_wordsdatabase.o
