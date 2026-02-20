@@ -54,6 +54,16 @@ EUWE 是一款基于 Qt 开发的智能英语生词提取工具。它能够从�
 - [Leptonica](http://www.leptonica.org/)
 - 预编译的 **tessdata** 语言包（至少包含 `eng.traineddata`）
 
+## Third-Party Licenses
+
+This project uses the following third-party libraries:
+
+- **Tesseract OCR** (Apache License 2.0) - [Full License](./licenses/LICENSE-Tesseract.txt)
+- **Leptonica** (BSD 2-Clause) - [Full License](./licenses/LICENSE-Leptonica.txt)
+- **ECDICT** (MIT License) - [Full License](./licenses/LICENSE-ECDICT.txt)
+
+Please refer to the individual license files for the full terms.
+
 ---
 
 ## 🚀 编译与构建
