@@ -50,7 +50,9 @@ EUWE 是一款基于 Qt 开发的英语生词提取工具。它能够从纯文�
 
 ## 注意
 **由于英语词典数据库过大(接近1G),euwe_words.db文件并没有上传到github**
+
 **该文件可以自行去 https://github.com/skywind3000/ECDICT/releases/tag/1.0.28 下载ecdict-sqlite-28.zip文件并解压**
+
 **使用时候将db文件改名为euwe_words.db后放在编译出来的euwe主应用的exe同目录下即可**
 
 ---
