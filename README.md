@@ -55,6 +55,10 @@ EUWE 是一款基于 Qt 开发的英语生词提取工具。它能够从纯文�
 
 **使用时候将db文件改名为euwe_words.db后放在编译出来的euwe主应用的exe同目录下即可**
 
+另外,最近网络不好,Release版本上传到github失败了好几次,现附带一个百度网盘的链接(包含euwe_words.db):
+通过网盘分享的文件：EUWE生词识别工具V1.0.1.zip
+链接: https://pan.baidu.com/s/10EagU2YaHGCs3aUuHFOzeA?pwd=8888 提取码: 8888
+
 ---
 
 ## Third-Party Licenses
