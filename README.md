@@ -1,6 +1,5 @@
 # English Unfamiliar Words Extractor (EUWE)
 
-![EUWE Logo](logo.ico)
 
 EUWE 是一款基于 Qt 开发的智能英语生词提取工具。它能够从纯文本、PDF、Word 文档甚至图片（通过 OCR）中快速提取所有英文单词，并与内置的熟词库及词典进行比对，自动将单词分为“熟词”、“生词”和“未识别”三类，帮助学习者高效积累生词。
 
