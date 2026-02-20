@@ -1,8 +1,0 @@
-Package: leptonica
-Version: 1.78.0-1
-Depends: giflib, libjpeg-turbo, libpng, libwebp, tiff, zlib
-Architecture: x64-windows
-Multi-Arch: same
-Abi: e39268fec672baac5efc58a722266451acf09554
-Description: An open source library containing software that is broadly useful for image processing and image analysis applications
-Type: Port
